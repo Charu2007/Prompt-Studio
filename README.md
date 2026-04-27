@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🎨 Prompt Studio
 
 Prompt Studio is a modern web application that allows users to generate AI-powered artwork through text prompts. Built with **React** and powered by **Hugging Face Inference APIs**, it bridges the gap between complex AI models and a user-friendly interface.
